@@ -30,6 +30,7 @@ Repositorio de ejercicios y prácticas en PHP.
 - **lab1.php** - Laboratorio 1
 - **lab2.php** - Laboratorio 2
 - **lab3.php** - Laboratorio 3
+- **cadenas.php** - problema 5
 
 ## Requisitos
 - PHP 7.0 o superior

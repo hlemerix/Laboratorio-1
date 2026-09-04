@@ -18,8 +18,22 @@
     <!-- El formulario envía los datos por método POST hacia pagina2.php -->
     <form method="post" action="pagina2.php">
       <label for="nombre">Ingrese su nombre:</label>
-      <!-- required obliga a llenar el campo antes de enviar (validación del lado del cliente) -->
-      <input type="text" name="nombre" id="nombre" required placeholder="Ej. Hanna">
+      <!-- 
+        onkeypress: bloquea la tecla antes de que aparezca en el campo
+        oninput: limpia cualquier caracter inválido pegado con Ctrl+V
+        pattern: validación extra del navegador al enviar el formulario
+      -->
+      <input 
+        type="text" 
+        name="nombre" 
+        id="nombre" 
+        required 
+        placeholder="Ej. Hanna"
+        pattern="[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+"
+        title="Solo se permiten letras y espacios"
+        onkeypress="return soloLetras(event)"
+        oninput="this.value = this.value.replace(/[^A-Za-zÁÉÍÓÚáéíóúÑñ\s]/g, '')"
+      >
 
       <label for="edad">Ingrese su Edad:</label>
       <!-- pattern restringe la entrada a solo dígitos -->
@@ -28,5 +42,17 @@
       <input type="submit" value="Confirmar">
     </form>
   </div>
+
+  <script>
+    function soloLetras(evt) {
+        var regex = /^[A-Za-zÁÉÍÓÚáéíóúÑñ\s]+$/;
+        var tecla = String.fromCharCode(evt.which || evt.keyCode);
+        if (!regex.test(tecla)) {
+            evt.preventDefault();
+            return false;
+        }
+        return true;
+    }
+  </script>
 </body>
 </html>

@@ -1,11 +1,26 @@
 # Prácticas PHP
 
 Repositorio de ejercicios y prácticas en PHP.
+
 ## Tecnologías utilizadas
 - **PHP** - Lógica del lado del servidor y procesamiento de datos
 - **HTML** - Estructura de las páginas y formularios
 - **CSS** - Estilos y diseño visual
 - **JavaScript** - Interactividad y validaciones en el cliente
+
+## Capturas
+
+### Captura 2
+![Captura 2](capturas/imagen%202)
+
+### Captura 3
+![Captura 3](capturas/imagen%203)
+
+### Captura 4
+![Captura 4](capturas/imagen%204)
+
+### Captura 5
+![Captura 5](capturas/imagen%205)
 
 ## Contenido
 

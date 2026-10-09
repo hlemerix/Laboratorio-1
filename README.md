@@ -11,16 +11,16 @@ Repositorio de ejercicios y prácticas en PHP.
 ## Capturas
 
 ### Captura 2
-![Captura 2](capturas/imagen%202)
+![Captura 2](capturas/imagen%202.svg)
 
 ### Captura 3
-![Captura 3](capturas/imagen%203)
+![Captura 3](capturas/imagen%203.svg)
 
 ### Captura 4
-![Captura 4](capturas/imagen%204)
+![Captura 4](capturas/imagen%204.svg)
 
 ### Captura 5
-![Captura 5](capturas/imagen%205)
+![Captura 5](capturas/imagen%205.svg)
 
 ## Contenido
 

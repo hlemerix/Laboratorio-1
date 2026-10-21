@@ -10,17 +10,20 @@ Repositorio de ejercicios y prácticas en PHP.
 
 ## Capturas
 
-### Captura 2
-![Captura 2](capturas/imagen%202.svg)
+### Página dinámica de bienvenida
+![Página dinámica de bienvenida](capturas/hello-world.png)
 
-### Captura 3
-![Captura 3](capturas/imagen%203.svg)
+### Verificación de instalación de PHP
+![Verificación de instalación de PHP](capturas/verificacion-php.png)
 
-### Captura 4
-![Captura 4](capturas/imagen%204.svg)
+### Conversor de pulgadas a centímetros
+![Conversor de pulgadas a centímetros](capturas/conversor-pulgadas-centimetros.png)
 
-### Captura 5
-![Captura 5](capturas/imagen%205.svg)
+### Área de una circunferencia
+![Área de una circunferencia](capturas/area-circunferencia.png)
+
+### Área y perímetro de un círculo
+![Área y perímetro de un círculo](capturas/area-perimetro-circulo.png)
 
 ## Contenido
 
@@ -60,4 +63,3 @@ Repositorio de ejercicios y prácticas en PHP.
 1. Clonar o descargar el repositorio
 2. Colocar en la carpeta `www` de tu servidor
 3. Acceder a través de `http://localhost/Practicas/`
-

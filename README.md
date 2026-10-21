@@ -1,4 +1,7 @@
-Universidad Tecnológica de Panamá Facultad de Sistemas Computacionales licenciatura en Ciberseguridad Estudiante: Hanna Licona Grupo: 1S3122 Profesora: Ing. Irina Fong 
+Universidad Tecnológica de Panamá Facultad de Sistemas Computacionales licenciatura en Ciberseguridad 
+Estudiante: Hanna Licona 
+Grupo: 1S3122 
+Profesora: Ing. Irina Fong 
 # Prácticas PHP
 
 Repositorio de ejercicios y prácticas en PHP.

@@ -1,7 +1,4 @@
-# Universidad Tecnológica de Panamá Facultad de Sistemas Computacionales licenciatura en Ciberseguridad 
-- **Estudiante:** Hanna Licona 
--**Grupo:** 1S3122 
--**Profesora:** Ing. Irina Fong 
+
 # Prácticas PHP
 
 Repositorio de ejercicios y prácticas en PHP.
@@ -67,3 +64,8 @@ Repositorio de ejercicios y prácticas en PHP.
 1. Clonar o descargar el repositorio
 2. Colocar en la carpeta `www` de tu servidor
 3. Acceder a través de `http://localhost/Practicas/`
+
+ # Universidad Tecnológica de Panamá Facultad de Sistemas Computacionales licenciatura en Ciberseguridad 
+- **Estudiante:** Hanna Licona 
+-**Grupo:** 1S3122 
+-**Profesora:** Ing. Irina Fong 
